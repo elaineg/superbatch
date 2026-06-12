@@ -25,4 +25,4 @@ Out of scope:
 - Emailing/sharing PDFs, payment processing, scheduling, notes, or any other EHR feature.
 - CPT/ICD-10 code validation or lookup databases — codes are free-text fields the clinician owns.
 
-Production URL: TBD
+Production URL: https://superbatch-theta.vercel.app
